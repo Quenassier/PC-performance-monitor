@@ -2,11 +2,9 @@
 /build/
 /dist/
 /venv/
-*.spec
 
 # Исключаем системные файлы
 .idea/
-.vscode/
 __pycache__/
 *.pyc
 
